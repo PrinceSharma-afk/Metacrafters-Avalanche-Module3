@@ -1,6 +1,8 @@
-# Metacrafters-Avalanche-Module3
-The CeShtoken contract extends ERC20 with features for token management, address control (blacklisting/whitelisting), token locking, and metadata verification.
-# Functions:
+# Metacrafters-Avalanche-Module3-CeshToken
+## Description
+The CeShToken contract extends ERC20 with features for token management, address control (blacklisting/whitelisting), token locking, and metadata verification.
+
+## Functions
 Burn: Permanently removes tokens from circulation.
 Mint: Creates new tokens and assigns them to an address.
 Transfer: Moves tokens from one address to another.
@@ -11,16 +13,32 @@ Whitelist: Grants permission for a specific address to transfer tokens.
 Blacklist: Revokes permission for a specific address to transfer tokens.
 Check Name: Verifies if a token name is registered within the contract.
 Check Symbol: Verifies if a token symbol is registered within the contract.
-# Getting Started
-You can use the online Solidity IDE Remix to run this program. Take these actions:
-Remix Open (https://remix.ethereum.org/)
-Visit Remix Ethereum's Remix webpage -> Make a New File
-In the left-hand sidebar, click the "+" icon to save the file with a.sol extension (CeShToken.sol, for example).
-Include the Contract Code here: The CeShToken contract code should be copied and pasted into the newly opened file.
-Put the Code Together: Select the "Solidity Compiler" tab located in the sidebar on the left. Click the "Compile CeShToken.sol" button after making sure the "Compiler" option is set to any suitable version.
-To deploy the contract, select the "Deploy & Run Transactions" tab located in the sidebar on the left. From the dropdown menu, choose the "CeShToken" contract and press the "Deploy" button.
-After the contract is deployed, you may use the Remix interface to call its functions and engage with it.
-Import Tokens into Wallet: To import your CeShTokens into a wallet that is compatible with the chosen network, use the deployment address provided in the contract.
 
+## Getting Started
+### Installing
 
+Use the online Solidity IDE Remix to run this program. Follow these steps:
 
+1. Remix Open: Remix Ethereum's Remix webpage
+2. Create a New File: Click the "+" icon in the left-hand sidebar to save the file with a .sol extension (e.g., CeShToken.sol).
+3. Include the Contract Code: Copy and paste the CeShToken contract code into the newly created file.
+4. Compile the Code:
+5. Select the "Solidity Compiler" tab in the sidebar on the left.
+6. Ensure the "Compiler" option is set to any suitable version.
+7. Click the "Compile CeShToken.sol" button.
+
+### Deploy the Contract:
+Select the "Deploy & Run Transactions" tab in the sidebar on the left.
+Choose the "CeShToken" contract from the dropdown menu and click the "Deploy" button.
+Interact with the Contract: Use the Remix interface to call its functions and engage with it.
+Import Tokens into Wallet
+To import your CeShTokens into a wallet compatible with the chosen network, use the deployment address provided in the contract.
+
+## Help
+Make sure to have sufficient Ethereum in your account for deployment and transactions. For further assistance, visit the Remix documentation.
+
+Authors
+Prince Sharma 
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
