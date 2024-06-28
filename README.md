@@ -27,12 +27,13 @@ Use the online Solidity IDE Remix to run this program. Follow these steps:
 6. Ensure the "Compiler" option is set to any suitable version.
 7. Click the "Compile CeShToken.sol" button.
 
+## Executing program
 ### Deploy the Contract:
-Select the "Deploy & Run Transactions" tab in the sidebar on the left.
-Choose the "CeShToken" contract from the dropdown menu and click the "Deploy" button.
-Interact with the Contract: Use the Remix interface to call its functions and engage with it.
-Import Tokens into Wallet
-To import your CeShTokens into a wallet compatible with the chosen network, use the deployment address provided in the contract.
+1.Select the "Deploy & Run Transactions" tab in the sidebar on the left.
+2.Choose the "CeShToken" contract from the dropdown menu and click the "Deploy" button.
+3.Interact with the Contract: Use the Remix interface to call its functions and engage with it.
+4.Import Tokens into Wallet
+5.To import your CeShTokens into a wallet compatible with the chosen network, use the deployment address provided in the contract.
 
 ## Help
 Make sure to have sufficient Ethereum in your account for deployment and transactions. For further assistance, visit the Remix documentation.
