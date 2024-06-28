@@ -38,8 +38,9 @@ Use the online Solidity IDE Remix to run this program. Follow these steps:
 ## Help
 Make sure to have sufficient Ethereum in your account for deployment and transactions. For further assistance, visit the Remix documentation.
 
-Authors
+## Authors
 Prince Sharma 
+sharmahprince@gmail.com
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
